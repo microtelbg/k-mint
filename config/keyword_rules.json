@@ -1,0 +1,242 @@
+[
+  {
+    "type": "Income",
+    "category": "Income",
+    "subcategory": "Salary",
+    "keywords": ["payroll", "direct deposit","interest paid"]
+  },
+  {
+    "type": "Income",
+    "category": "Income",
+    "subcategory": "Refunds",
+    "keywords": ["refund"]
+  },
+    {
+    "type": "Income",
+    "category": "Income",
+    "subcategory": "Rental Income",
+    "keywords": ["royal gate"]
+  },
+  {
+    "type": "Expense",
+    "category": "Housing",
+    "subcategory": "Mortgage",
+    "keywords": ["mortgage"]
+  },
+  {
+    "type": "Expense",
+    "category": "Housing",
+    "subcategory": "Rent Arbor Woods",
+    "keywords": ["pmt venmo"]
+  },
+  {
+    "type": "Expense",
+    "category": "Housing",
+    "subcategory": "HOA",
+    "keywords": ["hoa"]
+  },
+  {
+    "type": "Expense",
+    "category": "Housing",
+    "subcategory": "Property Tax",
+    "keywords": ["property tax"]
+  },
+  {
+    "type": "Expense",
+    "category": "Housing",
+    "subcategory": "Home Insurance",
+    "keywords": ["american family","homesite"]
+  },
+  {
+    "type": "Expense",
+    "category": "Utilities",
+    "subcategory": "Electricity",
+    "keywords": ["teco"]
+  },
+  {
+    "type": "Expense",
+    "category": "Utilities",
+    "subcategory": "Water",
+    "keywords": ["PNP BILLPAYMENT"]
+  },
+  {
+    "type": "Expense",
+    "category": "Utilities",
+    "subcategory": "Internet",
+    "keywords": ["frontier"]
+  },
+  {
+    "type": "Expense",
+    "category": "Utilities",
+    "subcategory": "Phones",
+    "keywords": ["t-mobile"]
+  },
+  {
+    "type": "Expense",
+    "category": "House Maintanance",
+    "subcategory": "Cleaning",
+    "keywords": ["roberta ribeiro"]
+  },
+    {
+    "type": "Expense",
+    "category": "House Maintanance",
+    "subcategory": "Cleaning",
+    "keywords": ["roberta ribeiro"]
+  },
+  {
+    "type": "Expense",
+    "category": "House Maintanance",
+    "subcategory": "Maintenance",
+    "keywords": ["home depot", "lowes", "ace hardware"]
+  },
+  {
+    "type": "Expense",
+    "category": "Subscriptions",
+    "subcategory": "Streaming",
+    "keywords": ["netflix", "spotify", "youtube tv"]
+  },
+  {
+    "type": "Expense",
+    "category": "Subscriptions",
+    "subcategory": "Software",
+    "keywords": ["apple.com", "github", "openai","amzn digital"]
+  },
+  {
+    "type": "Expense",
+    "category": "Subscriptions",
+    "subcategory": "Memberships",
+    "keywords": ["makerspace", "membership"]
+  },
+  {
+    "type": "Expense",
+    "category": "Shopping",
+    "subcategory": "Groceries",
+    "keywords": ["trader joe", "whole foods", "nespresso", "publix","aldi","sprouts"]
+  },
+  {
+    "type": "Expense",
+    "category": "Shopping",
+    "subcategory": "Costco",
+    "keywords": ["costco"]
+  },
+  {
+    "type": "Expense",
+    "category": "Shopping",
+    "subcategory": "Department Stores",
+    "keywords": ["ross", "target","walmart","wal-mart","wm supercenter","burlington", "tj maxx", "marshalls"]
+  },
+  {
+    "type": "Expense",
+    "category": "Shopping",
+    "subcategory": "Amazon",
+    "keywords": ["amazon"]
+  },
+  {
+    "type": "Expense",
+    "category": "Insurance",
+    "subcategory": "Auto Insurance",
+    "keywords": ["prog select ins"]
+  },
+  {
+    "type": "Expense",
+    "category": "Insurance",
+    "subcategory": "Health Insurance",
+    "keywords": ["health insurance"]
+  },
+  {
+    "type": "Expense",
+    "category": "Transportation",
+    "subcategory": "Gas",
+    "keywords": ["shell", "chevron", "exxon", "circle k", "wawa", "7-eleven", "texaco", "thorntons","racetrac"]
+  },
+  {
+    "type": "Expense",
+    "category": "Transportation",
+    "subcategory": "Tolls",
+    "keywords": ["sunpass"]
+  },
+    {
+    "type": "Expense",
+    "category": "Transportation",
+    "subcategory": "Car Payments",
+    "keywords": ["kmf"]
+  },
+  {
+    "type": "Expense",
+    "category": "Transportation",
+    "subcategory": "Parking",
+    "keywords": ["parkmobile"]
+  },
+  {
+    "type": "Expense",
+    "category": "Food & Dining",
+    "subcategory": "Restaurants",
+    "keywords": ["restaurant", "doordash", "uber eats", "steak-n-shake", "chipotle", "chick-fil-a", "first watch", "mandola", "hottunasushi.com", "tropical smoothie cafe","hungry howies", "mcdonald", "panera"]
+  },
+  {
+    "type": "Expense",
+    "category": "Health",
+    "subcategory": "Pharmacy",
+    "keywords": ["cvs", "walgreens"]
+  },
+  {
+    "type": "Expense",
+    "category": "Health",
+    "subcategory": "Dentist",
+    "keywords": ["rudolph m wagner","knellinger dental"]
+  },
+  {
+    "type": "Expense",
+    "category": "Health",
+    "subcategory": "Vision",
+    "keywords": ["myeyedr", "visual performance cen clearwater"]
+  },
+  {
+    "type": "Expense",
+    "category": "Kids",
+    "subcategory": "School",
+    "keywords": ["school","center academy","rodina"]
+  },
+  {
+    "type": "Expense",
+    "category": "Kids",
+    "subcategory": "Activities",
+    "keywords": ["lemon tree","icode"]
+  },
+  {
+    "type": "Ignore",
+    "category": "Transfers",
+    "subcategory": "Credit Card Payment",
+    "keywords": ["mobile payment thank you", "credit card", "monthly maintenance fee", "amex payment"]
+  },
+  {
+    "type": "Ignore",
+    "category": "Transfers",
+    "subcategory": "ATM",
+    "keywords": ["atm"]
+  },
+  {
+    "type": "Expense",
+    "category": "TODO",
+    "subcategory": "TODO",
+    "keywords": ["zelle", "check"]
+  },
+  {
+    "type": "Expense",
+    "category": "Taxes",
+    "subcategory": "Federal Tax",
+    "keywords": ["hrb online tax","irs"]
+  },
+  {
+    "type": "Expense",
+    "category": "Entertainment",
+    "subcategory": "Movies",
+    "keywords": ["amc", "prime video"]
+  },
+  {
+    "type": "Expense",
+    "category": "Travel",
+    "subcategory": "Plane Tickets",
+    "keywords": ["booking.com", "delta", "southwest", "united"]
+  }
+]

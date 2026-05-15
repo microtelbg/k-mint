@@ -1,0 +1,87 @@
+{
+  "Beauty": [
+    "Haircut",
+    "Massage",
+    "Other"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Events"
+  ],
+  "Food & Dining": [
+    "Restaurants"
+  ],
+  "Health": [
+    "Dentist",
+    "Vision",
+    "Pharmacy",
+    "Doctor"
+  ],
+  "House Maintanance": [
+    "Cleaning",
+    "Maintenance"
+  ],
+  "Housing": [
+    "HOA",
+    "Home Insurance",
+    "Mortgage",
+    "Property Tax",
+    "Rent Arbor Woods"
+  ],
+  "Income": [
+    "Refunds",
+    "Salary",
+    "Rental Income"
+  ],
+  "Insurance": [
+    "Auto Insurance",
+    "Health Insurance"
+  ],
+  "Kids": [
+    "School",
+    "Activities"
+  ],
+  "Other": [
+    "Uncategorized"
+  ],
+  "Shopping": [
+    "Amazon",
+    "Costco",
+    "Department Stores",
+    "Groceries",
+    "Other"
+  ],
+  "Subscriptions": [
+    "Software",
+    "Streaming",
+    "Memberships"
+  ],
+  "TODO": [
+    "TODO"
+  ],
+  "Taxes": [
+    "Federal Tax"
+  ],
+  "Transfers": [
+    "ATM",
+    "Credit Card Payment"
+  ],
+  "Transportation": [
+    "Gas",
+    "Parking",
+    "Tolls",
+    "Maintenance",
+    "Car Payments"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Internet",
+    "Phones",
+    "Water"
+  ],
+  "Travel": [
+    "Plane Tickets",
+    "Hotels",
+    "Other"
+  ]
+}
